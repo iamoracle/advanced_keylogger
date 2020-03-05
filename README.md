@@ -8,7 +8,7 @@ This package is free and should be used within the realm of law. Thank you!
 
 ## Installation
 
-You can install via (pip)[https://pip.pypa.io/en/stable/]
+You can install via [pip](https://pip.pypa.io/en/stable/)
 
 ``` cmd
 
@@ -92,4 +92,4 @@ while True:
 ## Developer(s)
 
 
-(Oyeniyi Abiola Peace)[https://twitter.com/_iamoracle]
+[Oyeniyi Abiola Peace](https://twitter.com/_iamoracle)
